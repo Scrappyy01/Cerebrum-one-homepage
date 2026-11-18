@@ -127,9 +127,9 @@ export default function Home() {
         <section id="slide1" className="relative flex h-screen items-center justify-center px-8 text-center">
           <div className="flex flex-col items-center">
             <div className="mb-8 flex gap-3" aria-hidden="true">
-              <span className="block h-24 w-0.5 origin-top bg-brand-accent animate-line-emerge-1" />
-              <span className="block h-32 w-0.5 origin-top bg-brand-accent animate-line-emerge-2" />
-              <span className="block h-20 w-0.5 origin-top bg-brand-accent animate-line-emerge-3" />
+              <span className="block h-24 w-0.5 origin-top bg-[#0055cf] animate-line-emerge-1" />
+              <span className="block h-32 w-0.5 origin-top bg-[#0055cf] animate-line-emerge-2" />
+              <span className="block h-20 w-0.5 origin-top bg-[#0055cf] animate-line-emerge-3" />
             </div>
             <h1
               className="text-5xl font-light tracking-[0.3em] md:text-7xl"

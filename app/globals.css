@@ -3,7 +3,7 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
-  --brand-accent: #0055cf;
+  --brand-accent: #49d0fd;
 }
 
 html {
@@ -12,7 +12,7 @@ html {
 
 @theme {
   --color-brand-bg: #1a1a1a;
-  --color-brand-accent: #0055cf;
+  --color-brand-accent: #49d0fd;
   --color-brand-accent-light: #49d0fd;
 }
 
@@ -55,6 +55,6 @@ body {
   50%      { opacity: 0.85; }
 }
 @keyframes text-glow {
-  0%, 100% { text-shadow: 0 0 30px rgba(0,0,0,.8), 0 0 60px rgba(0,85,207,.3); }
-  50%      { text-shadow: 0 0 30px rgba(0,0,0,.8), 0 0 80px rgba(0,85,207,.6); }
+  0%, 100% { text-shadow: 0 0 30px rgba(0,0,0,.8), 0 0 60px rgba(73,208,253,.3); }
+  50%      { text-shadow: 0 0 30px rgba(0,0,0,.8), 0 0 80px rgba(73,208,253,.6); }
 }
