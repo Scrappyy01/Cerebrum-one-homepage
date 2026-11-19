@@ -17,7 +17,7 @@ export default function Navbar() {
       <div className="container mx-auto px-8 py-4 flex items-center justify-between">
         <Link href="/" className="flex items-center">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/fortis-cerebrum-one-neon-logo.webp" alt="Cerebrum One logo" className="h-12 w-auto" />
+          <img src="/logo-no-bg.png" alt="Cerebrum One logo" className="h-12 w-auto" />
         </Link>
 
         <div className="hidden md:flex gap-8 text-sm tracking-wide">
